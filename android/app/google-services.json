@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "465927797170",
+    "project_id": "floom-eb7ed",
+    "storage_bucket": "floom-eb7ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465927797170:android:1b4f572379d72ccaefccab",
+        "android_client_info": {
+          "package_name": "com.example.floom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465927797170-ebcojvkvl03a51fif7dfcmjbv6b1t84v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.floom",
+            "certificate_hash": "c2a5a2b282bbacb86ecc62eeb8ef6ab3012e56a7"
+          }
+        },
+        {
+          "client_id": "465927797170-36clqil9q8hfpf25kn2hg04jabvajr0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaP8b-uy8IsdZnC62-53PSugfjNrBsiV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465927797170-36clqil9q8hfpf25kn2hg04jabvajr0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
